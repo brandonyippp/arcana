@@ -1,0 +1,29 @@
+# Ignore Visual Studio files
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Ignore Mac-specific files
+.DS_Store
+
+# Ignore Unreal Engine binaries and intermediate files
+Binaries/
+DerivedDataCache/
+Intermediate/
+Saved/
+*.opensdf
+*.sdf
+*.sqlite
+*.pdb
+*.opendb
+
+# Ignore Visual Studio Code files
+.vscode/
+
+# Ignore JetBrains files
+.idea/
+
+# Ignore other unwanted files
+*.log
+*.tmp
